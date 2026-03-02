@@ -1,2 +1,7 @@
 # gpu-thermal-perf-evolution
-GPU thermal–performance time-series analyzer. Returns matrix multiplication runtime and GPU temperature metrics data and exports per-device comparative plots.
+
+A lightweight analysis tool to study the relationship between GPU performance and temperature over time.
+
+The application loads temperature logs and matrix multiplication timing data, then generates dual-axis time-series plots to visualize the correlation between thermal behavior and computational performance.
+
+To see more details about the specific use, use the command `.\orchestator.sh --help`
