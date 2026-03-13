@@ -4,7 +4,7 @@ A lightweight analysis tool to study the relationship between GPU performance an
 
 The application loads temperature logs and matrix multiplication timing data, then generates dual-axis time-series plots to visualize the correlation between thermal behavior and computational performance.
 
-To see more details about the specific use, use the command `.\orchestator.sh --help`
+To see more details about the specific use, use the command `.\orchestrator.sh --help`
 
 Besides, this tool relies on external system utilities for GPU monitoring and data preprocessing:
 
